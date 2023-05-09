@@ -1,5 +1,5 @@
 # Challenge M3
-Carpetas correspondientes a los ejercicios del desafío 1 y recursos.
+Carpetas correspondientes a los ejercicios del desafío M3 y recursos.
 ## Ejercicio 1
 Listas con imágenes reemplazando los bullets.
 ## Ejercicio 2
