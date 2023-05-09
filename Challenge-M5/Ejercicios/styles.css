@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@400;700&display=swap");
+
+header
+{
+    height: 30px;
+    background-color: #3957f1;
+}
+
+div #logo-azul, a
+{
+    display: inline;
+    padding: 30px;
+}
+
+#logo-azul
+{  
+    width: 5%;
+}
+
+a
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 12pt;
+    color: #04146c;
+}
+
+.activo
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 12pt;
+    color: #04146c;
+}
+
+
+h1
+{
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: 700;
+    font-size: 50pt;
+    color: #0a2ff1;
+    margin-bottom: -10px;
+    text-align: center;
+}
+
+.start
+{
+    text-align: center;
+}
+
+#rocket
+{   
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+h2
+{
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: 700;
+    font-size: 34pt;
+    color: #04146c;
+}
+
+h3
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 18pt;
+    color: #04146c;
+}
+
+p
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 26pt;
+    color: #04146c;
+    text-align: center;
+}
+
+main {
+    width: 100%;
+    display: flex;
+}
+
+main div {
+    padding: 50px;
+    width: 40%;
+}
+
+div p
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 18pt;
+    color: #04146c;  
+    text-align: left;
+}
+
+main aside{
+    width: 50%;
+    background-image: url("../Resources/Ejercicios/M5-Desafio3-img.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin-bottom: -45px;
+}
+
+#logo-blanco
+{   padding: 15px;
+    margin-left: 35px;
+    width: 10%;
+}
+
+footer
+{   height: 70px;
+    background-color: #3957f1;
+}

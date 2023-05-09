@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@400;700&display=swap");
+
+body
+{
+    box-sizing: border-box;
+    margin: auto;
+    padding: 10px;
+}
+
+div #logo-azul, a
+{
+    display: inline;
+    padding: 30px;
+}
+
+#logo-azul
+{  
+    width: 5%;
+}
+
+a
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 12pt;
+    color: #04146c;
+}
+
+.activo
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 12pt;
+    color: #04146c;
+}
+
+label:after
+{  
+    content:" *";
+    color: red;
+}
+
+input
+{   
+    width: 500px;
+    height: 50px;
+    border: solid lightblue;
+    border-width: 1px;
+}
+
+.textarea
+{
+    width: 500px;
+    height: 100px;
+}
+
+h1
+{
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: 700;
+    font-size: 34pt;
+    color: #2c00cc;
+}
+
+p
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 23pt;
+    color: #04146c;
+}
+
+label
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 23pt;
+    color: #04146c;
+}
+
+button
+{   
+    border: none;
+}
+
+.reset
+{
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: 700;
+    font-size: 24pt;
+    color: white;
+    background-color: #f98500;
+    margin-right: 40px;
+}
+
+.send
+{
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: 700;
+    font-size: 24pt;
+    color: white;
+    background-color: #2c00cc;  
+}
